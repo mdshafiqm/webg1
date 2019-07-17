@@ -10,5 +10,7 @@
 Welcome to GIt Shafiq in feature1	
 Hello shafiq f1
 added this to master
+merge example fro f1to master+
+
 </body>
 </html>
